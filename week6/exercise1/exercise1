@@ -1,0 +1,26 @@
+.exercise1
+	li $v0, 5 # read integer
+	syscall
+	add $s0, $v0, $zero # put y
+	
+	li $v0, 5 # read integer
+	syscall
+	add $s1, $v0, $zero # put z
+	
+	li $v0, 5 # read integer
+	syscall
+	add $s2, $v0, $zero # put f
+	
+	li $v0, 5 # read integer
+	syscall
+	add $s3, $v0, $zero # put q
+	
+	mul $t0, $s1, $s1 # z ** 2
+	mul $t0, $s0, $t0 # y * z
+	div $t2, $t0, $s2 # (y * z ** 2)/f
+	sub $t0, $t2, $s3 # final result
+
+	
+	li $v0, 1
+	add $a0, $t0, $zero
+	syscall
