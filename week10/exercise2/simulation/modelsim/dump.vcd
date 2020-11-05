@@ -1,0 +1,101 @@
+$date
+	Thu Nov 05 19:11:32 2020
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module full_adder_testbench $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # carry_in $end
+$var wire 1 $ carry_out $end
+$var wire 1 % sum $end
+
+$scope module fa $end
+$var wire 1 & x $end
+$var wire 1 ' y $end
+$var wire 1 ( c_in $end
+$var wire 1 % s $end
+$var wire 1 $ c_out $end
+$var wire 1 ) s1 $end
+$var wire 1 * c1 $end
+$var wire 1 + s2 $end
+$var wire 1 , c2 $end
+
+$scope module hs $end
+$var wire 1 & x $end
+$var wire 1 ' y $end
+$var wire 1 ) s $end
+$var wire 1 * carry $end
+$upscope $end
+
+$scope module hr $end
+$var wire 1 ( x $end
+$var wire 1 ) y $end
+$var wire 1 + s $end
+$var wire 1 , carry $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+0#
+0$
+1%
+1)
+0*
+1+
+0,
+0(
+1'
+0&
+$end
+#5
+1#
+1(
+0+
+1,
+1$
+0%
+#10
+1!
+0"
+1&
+0'
+#15
+0#
+0(
+1+
+0,
+0$
+1%
+#20
+0!
+0&
+0)
+0+
+0%
+#25
+1#
+1(
+1+
+1%
+#30
+1!
+1"
+1&
+1'
+1*
+1$
+#35
+0#
+0(
+0+
+0%

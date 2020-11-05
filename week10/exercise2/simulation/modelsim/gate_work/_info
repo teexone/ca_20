@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/github/ca_20/week10/exercise2/simulation/modelsim
+vfull_adder
+!s110 1604585487
+!i10b 1
+!s100 BFXYjB3fV[IW>9PS;B;<Z0
+IR=AQJnK2Ce[O3SYO57jAa1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604585445
+8C:/Users/User/github/ca_20/week10/exercise2/full_adder.v
+FC:/Users/User/github/ca_20/week10/exercise2/full_adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1604585487.000000
+!s107 C:/Users/User/github/ca_20/week10/exercise2/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week10/exercise2|C:/Users/User/github/ca_20/week10/exercise2/full_adder.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/User/github/ca_20/week10/exercise2
+Z6 tCvgOpt 0
+vfull_adder_testbench
+!s110 1604585488
+!i10b 1
+!s100 0;8HVe<NbEH1Sci;g2c:z2
+IjJ7fi;@]SJj8N5PJTOCdA2
+R1
+R0
+w1604585025
+8C:/Users/User/github/ca_20/week10/exercise2/full_adder_testbench.v
+FC:/Users/User/github/ca_20/week10/exercise2/full_adder_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/User/github/ca_20/week10/exercise2/full_adder_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week10/exercise2|C:/Users/User/github/ca_20/week10/exercise2/full_adder_testbench.v|
+!i113 1
+R4
+R5
+R6
+vhalf_adder
+!s110 1604585489
+!i10b 1
+!s100 0hzo>DnfH1>QHPNjg?5Wh0
+I=zk;h4nh32Zl6J926SYW22
+R1
+R0
+w1604584930
+8C:/Users/User/github/ca_20/week10/exercise2/half_adder.v
+FC:/Users/User/github/ca_20/week10/exercise2/half_adder.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1604585488.000000
+!s107 C:/Users/User/github/ca_20/week10/exercise2/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week10/exercise2|C:/Users/User/github/ca_20/week10/exercise2/half_adder.v|
+!i113 1
+R4
+R5
+R6
+vhard_block
+!s110 1604585486
+!i10b 1
+!s100 nh@VHF=db0oomF[fNEFZo3
+I5Lh>l[6jz@]H=?Wk=LC>11
+R1
+R0
+w1604585477
+8exercise2.vo
+Fexercise2.vo
+L0 280
+R2
+r1
+!s85 0
+31
+!s108 1604585486.000000
+!s107 exercise2.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|exercise2.vo|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+.
+R6
