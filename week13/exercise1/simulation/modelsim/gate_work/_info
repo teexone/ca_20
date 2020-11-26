@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/github/ca_20/week13/exercise1/simulation/modelsim
+valu_decoder
+Z1 !s110 1606399780
+!i10b 1
+!s100 g[jgaAHh;SfZ4ZJU]]C:G0
+IDlRiRL0RWPXZb2C`Ri43h1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606398744
+8C:/Users/User/github/ca_20/week13/exercise1/alu_decoder.v
+FC:/Users/User/github/ca_20/week13/exercise1/alu_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606399780.000000
+!s107 C:/Users/User/github/ca_20/week13/exercise1/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week13/exercise1|C:/Users/User/github/ca_20/week13/exercise1/alu_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/User/github/ca_20/week13/exercise1
+Z7 tCvgOpt 0
+vcontrol_unit
+R1
+!i10b 1
+!s100 >_45gOWke`oJVPEc9W]H10
+I^jbSFDdjek>m^RL<66i==1
+R2
+R0
+w1606399736
+8C:/Users/User/github/ca_20/week13/exercise1/control_unit.v
+FC:/Users/User/github/ca_20/week13/exercise1/control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/github/ca_20/week13/exercise1/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week13/exercise1|C:/Users/User/github/ca_20/week13/exercise1/control_unit.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+!s110 1606399779
+!i10b 1
+!s100 3J0=7YP8_n9Cn=A@GNT:20
+IPM=P@bM3D1bNj[Q<W9iGm1
+R2
+R0
+w1606399772
+8cu.vo
+Fcu.vo
+L0 1095
+R3
+r1
+!s85 0
+31
+!s108 1606399779.000000
+!s107 cu.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|cu.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmain_decoder
+R1
+!i10b 1
+!s100 8U4Xce;;a@KXoE:o6`M`I3
+I5aTSG85n^mc06HD5ze;MM1
+R2
+R0
+w1606399444
+8C:/Users/User/github/ca_20/week13/exercise1/main_decoder.v
+FC:/Users/User/github/ca_20/week13/exercise1/main_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/github/ca_20/week13/exercise1/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week13/exercise1|C:/Users/User/github/ca_20/week13/exercise1/main_decoder.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R1
+!i10b 1
+!s100 8j^925n7Zd;RLhW=[8Ag<3
+IX6IZEdI04@A`k3>hmF=n`2
+R2
+R0
+w1606397837
+8C:/Users/User/github/ca_20/week13/exercise1/testbench.v
+FC:/Users/User/github/ca_20/week13/exercise1/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/github/ca_20/week13/exercise1/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/User/github/ca_20/week13/exercise1|C:/Users/User/github/ca_20/week13/exercise1/testbench.v|
+!i113 1
+R5
+R6
+R7
